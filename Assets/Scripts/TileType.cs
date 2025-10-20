@@ -1,0 +1,1 @@
+public enum TileType { Empty, Street, Building, Park }
